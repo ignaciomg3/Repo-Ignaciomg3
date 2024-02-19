@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @83822-Ignacio-Mongi
+- 👋 Hi, I’m ignaciomg3
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning "information systems engineering"
 - 💞️ I’m looking to collaborate on ...
